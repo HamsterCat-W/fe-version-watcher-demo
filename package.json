@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@lymtic/version-watcher": "^1.0.9",
+    "@lymtic/version-watcher": "^1.0.12",
     "vue": "^3.3.11"
   },
   "devDependencies": {
